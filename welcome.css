@@ -1,0 +1,22 @@
+h1{
+    line-height: 40px;
+
+    text-align:  center;
+}
+
+.links{
+
+    display: flex;
+    column-gap:  20px;
+
+    align-items: center;
+
+    justify-content: center;
+
+}
+
+.box{
+    padding-top: 20%;
+
+}
+
